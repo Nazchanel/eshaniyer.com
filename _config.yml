@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 Hello potential Russian hackers!</p>
 This is the website of a soon to be Junior in high school who loves to code.
 This page is just meant to be a basic landing page for anyone who manages to get here. I host various webapps on this website and will leave the link to my Github profile down below
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "www.eshaniyer.com"
 github_username:  Nazchanel
 twitter_username: jekyllrb
