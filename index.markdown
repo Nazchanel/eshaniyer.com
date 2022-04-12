@@ -5,3 +5,6 @@
 layout: home
 ---
 # Hello test
+You are an idiot who needs teaching.
+
+
