@@ -29,6 +29,9 @@ github_username:  Nazchanel
 
 # Build settings
 theme: minima
+minima:
+  social_links:
+    linkedin: kulfieshan
 plugins:
   - jekyll-feed
 
