@@ -4,7 +4,7 @@
 
 layout: home
 ---
-# Hello test
+## Hello test
 You are an idiot who needs teaching.
 
 
