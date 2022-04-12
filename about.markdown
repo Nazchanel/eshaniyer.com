@@ -9,3 +9,5 @@ Eshan Iyer is a 10th-grade student going to Frisco High School. He is is current
 Eshan loves to code innovative ideas and solve real world issues. 
 
 He is currently focusing this passion on data science, specifically machine learning. He is taking those skills currently to help the cause of oncology with his cancer detection program.
+
+![](assets/image.jpg)
