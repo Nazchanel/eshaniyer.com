@@ -19,5 +19,4 @@ bettter data for helping the cause of climate change.
 <br>
 The project can be accessed at the URL above, but the SQL database access is broken rendering the project, unusable.  
 
-![alt text for screen readers](assets/image.jpg "Test")
 

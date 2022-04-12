@@ -10,4 +10,4 @@ Eshan loves to code innovative ideas and solve real world issues.
 
 He is currently focusing this passion on data science, specifically machine learning. He is taking those skills currently to help the cause of oncology with his cancer detection program.
 
-![](assets/image.jpg)
+![Eshan Iyer](assets/image.jpg "A picture of Eshan Iyer")
