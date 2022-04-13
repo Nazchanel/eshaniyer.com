@@ -27,7 +27,11 @@ url: "https://www.eshaniyer.com" # the base hostname & protocol for your site, e
 twitter_username: 
 github_username:  Nazchanel
 linkedin_username: kulfieshan
-# Build settings
+header_pages:
+ - index.markdown
+ - about.markdown
+ - resume.markdown
+ - portfolio.markdown
 theme: minima
 minima:
   social_links:
