@@ -7,7 +7,7 @@ order: 3
 permalink: /portfolio/
 ---
 ## Projects:
-### ***Collin College Hackathon: October 2021** ([Link](https://water-wizard.eshaniyer.com))*
+### **Collin College Hackathon: October 2021** ***<a href="https://water-wizard.eshaniyer.com/" target="_blank">(Link)</a>***.
 --- 
 Me and Abhiram Nandiraju were partners for this Hackathon project.
 <br> 
