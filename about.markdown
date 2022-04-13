@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+order: 2
 ---
 
 Eshan Iyer is a 10th-grade student going to Frisco High School. He is is currently 15 years old. He plays the flute, piano, and swims competitively.
