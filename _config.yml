@@ -27,6 +27,8 @@ url: "https://www.eshaniyer.com" # the base hostname & protocol for your site, e
 twitter_username: 
 github_username:  Nazchanel
 linkedin_username: kulfieshan
+youtube_channel: UCoCMt9W57bqYXBTzspcD3FA
+
 header_pages:
  - index.markdown
  - about.markdown
@@ -36,6 +38,22 @@ theme: minima
 minima:
   social_links:
     linkedin: kulfieshan
+    # twitter: jekyllrb
+    github: Nazchanel
+    # devto: jekyll
+    # dribbble: jekyll
+    # facebook: jekyll
+    # flickr:   jekyll
+    # instagram: jekyll
+    # linkedin: jekyll
+    # pinterest: jekyll
+    youtube: jekyll
+    youtube_channel: UCoCMt9W57bqYXBTzspcD3FA
+    # youtube_channel_name: CloudCannon
+    # telegram: jekyll
+    # googleplus: +jekyll
+    # microdotblog: jekyll
+    # keybase: jekyll
   skin: dark
     
 plugins:
