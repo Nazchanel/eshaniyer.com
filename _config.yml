@@ -21,14 +21,12 @@
 title: eshaniyer.com
 email: eshan_iyer@eshaniyer.com
 description: >- # this means to ignore newlines until "baseurl:"
- This is the website that hosts Eshan Iyer's portfolio as well as many web apps/projects that I have created.
+ This is the website that hosts Eshan Iyer's portfolio as well as many web apps/projects that I have created. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-
 twitter_username: 
 github_username:  Nazchanel
 linkedin_username: kulfieshan
-
 # Build settings
 theme: minima
 minima:
