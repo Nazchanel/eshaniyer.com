@@ -4,8 +4,8 @@
 
 layout: home
 ---
-## Projects:
-### ***Collin College Hackathon: October 2021** ([Link](https://water-wizard.eshaniyer.com))*
+### Projects:
+#### ***Collin College Hackathon: October 2021** ([Link](https://water-wizard.eshaniyer.com))*
 --- 
 Me and Abhiram Nandiraju were partners for this Hackathon project.
 <br> 
