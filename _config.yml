@@ -30,8 +30,8 @@ linkedin_username: kulfieshan
 header_pages:
  - index.markdown
  - about.markdown
- - resume.markdown
  - portfolio.markdown
+ - resume.markdown
 theme: minima
 minima:
   social_links:
