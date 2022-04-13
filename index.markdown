@@ -6,7 +6,7 @@ title: Home
 order: 1
 permalink: /
 ---
-## ***Hello potential Russian hackers!***
+## ***Welcome to eshaniyer.com!***
 <br>
 ### This is the website of a soon to be Junior in high school who loves to code.
 <br>
