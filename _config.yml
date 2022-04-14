@@ -35,17 +35,15 @@ header_pages:
  - portfolio.markdown
  - resume.markdown
  - contact.markdown
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-# theme: minima
-# minima:
-  # social_links:
-    # linkedin: kulfieshan
-    # github: Nazchanel
+theme: minima
+minima:
+  social_links:
+    linkedin: kulfieshan
+    github: Nazchanel
 
     
 plugins:
   - jekyll-feed
-  - jekyll-include-cache
   
 # Exclude from processing.
 # The following items will not be processed, by default.
