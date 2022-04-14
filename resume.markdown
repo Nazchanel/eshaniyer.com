@@ -9,7 +9,7 @@ permalink: /resume/
 *Note: This page is currently under construction, so things may seem **off** , to say the least*.
 
 | Name        |  City       | Phone        |  Email       |
-| ----------- | ----------- |----------- |  -----------
+| :----: | :----: |:----: |  :----: | :----: |
 |**Eshan Iyer**     |**Frisco, TX**|**+1 (972) 439-4254** |**eshan_iyer@eshaniyer.com**|
 
 ## Summary
@@ -32,15 +32,11 @@ permalink: /resume/
 ## Experience:
 
 #### ***Kumon Math and Reading Center***
-| Frisco, TX | Teacher Assistant | 08/2021 - Present |
-
-- Coordinated groups of different workers and increased efficiency by 50%
-- Worked diligently to provide clients with fast results, even when demand was high
-- Patiently worked with students and assisted in their learning journey
+<table style="border-collapse:collapse;border-color:#ccc;border-spacing:0;table-layout: fixed; width: 700px" class="tg"><colgroup><col style="width: 78px"><col style="width: 78px"><col style="width: 161px"></colgroup><thead><tr><td style="background-color:#fff;border-color:inherit;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Frisco, TX</span></td><td style="background-color:#fff;border-color:inherit;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Teacher Assistant</span></td><td style="background-color:#fff;border-color:inherit;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">August 2021 - Present</span></td></tr></thead></table>- Patiently worked with students and assisted in their learning journey
 - Developed relationships with many staff members, and assisted them with existing staff members in their career development
 
 #### ***Kulfi Kream***
-| **Frisco, TX** | **Chief Executive Officer (CEO)** | **08/2019 - 12/2020** | 
+<table style="border-collapse:collapse;border-color:#ccc;border-spacing:0;table-layout: fixed; width: 700px" class="tg"><colgroup><col style="width: 78px"><col style="width: 78px"><col style="width: 161px"></colgroup><thead><tr><td style="background-color:#fff;border-color:inherit;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Frisco, TX</span></td><td style="background-color:#fff;border-color:inherit;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Chief Executive Officer</span></td><td style="background-color:#fff;border-color:inherit;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">August 2019- December 2020</span></td></tr></thead></table>
 - Managed a business that sold sustainable, and delicious sweets to the Frisco community
 - Developed skills, such as team-building and perseverance, to
 - Executed company policies, procedures, and safety standards to ensure the proper cleanliness and safety of the office and equipment
@@ -51,3 +47,4 @@ permalink: /resume/
 #### ***Frisco High School | Frisco, TX*** 
 
 * In Academic Decathlon
+
