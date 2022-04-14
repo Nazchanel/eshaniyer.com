@@ -15,3 +15,4 @@ permalink: /
 ### For professional communication, please connect with me through <a href="https://www.linkedin.com/in/kulfieshan" target="_blank">LinkedIn</a>.
 
 ![image](assets/banner.png)
+
