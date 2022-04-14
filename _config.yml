@@ -35,11 +35,12 @@ header_pages:
  - portfolio.markdown
  - resume.markdown
  - contact.markdown
-theme: minima
-minima:
-  social_links:
-    linkedin: kulfieshan
-    github: Nazchanel
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+# theme: minima
+# minima:
+  # social_links:
+    # linkedin: kulfieshan
+    # github: Nazchanel
 
     
 plugins:
