@@ -6,8 +6,12 @@ title: Résumé
 order: 4
 permalink: /resume/
 ---
-*Note: This page is currently under construction, so there might be holes or missing details. Until further notice, please do not take this page as whole. 
+*Note: This page is currently under construction, so there might be holes or missing details. Until further notice, please do not take this page as whole.
+ 
+---
 
+# Resume:
+<hr>
 | Name        |  City       | Phone        |  Email       |
 | :----: | :----: |:----: |  :----: | :----: |
 |**Eshan Iyer**     |**Frisco, TX**|**+1 (972) 439-4254** |**eshan_iyer@eshaniyer.com**|
