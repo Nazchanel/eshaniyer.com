@@ -7,19 +7,18 @@ order: 1
 permalink: /
 ---
 
-## **Welcome to *eshaniyer.com*!**
+# **Welcome to *eshaniyer.com*!**
 <hr>
 ### This is the website of a soon to be *Junior* in high school who loves to code.
 <br>
 ### I host various webapps on this website and the code can be found on my <a href="https://www.github.com/Nazchanel" target="_blank">Github profile</a>.
 <br>
 ### For professional communication, please connect with me through <a href="https://www.linkedin.com/in/kulfieshan" target="_blank">LinkedIn</a>.
+<hr>
+### Please checkout the other two pages in the tabs or click on one of these links:
+
+- ### [Projects](/projects/)
+- ### [Résumé](/resume/)
+<hr>
 <br>
-
-
-
-	
-
-<p><img style="display: block; margin-left: auto; margin-right: auto;" src="/assets/eshan.JPG" width="432" height="327" /></p>
-
 ![](assets/banner.png)
