@@ -34,7 +34,6 @@ header_pages:
  - about.markdown
  - portfolio.markdown
  - resume.markdown
- - contact.markdown
 theme: minima
 minima:
   social_links:
