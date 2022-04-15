@@ -6,13 +6,20 @@ title: Home
 order: 1
 permalink: /
 ---
+
 ## **Welcome to *eshaniyer.com*!**
+<hr>
+### This is the website of a soon to be *Junior* in high school who loves to code.
 <br>
-### This is the website of a soon to be Junior in high school who loves to code.
-<br>
-### This page is just meant to be a basic landing page for anyone who manages to get here. I host various webapps on this website and the code can be found on my <a href="https://www.github.com/Nazchanel" target="_blank">Github profile</a>.
+### I host various webapps on this website and the code can be found on my <a href="https://www.github.com/Nazchanel" target="_blank">Github profile</a>.
 <br>
 ### For professional communication, please connect with me through <a href="https://www.linkedin.com/in/kulfieshan" target="_blank">LinkedIn</a>.
+<br>
 
-![image](assets/banner.png)
 
+
+	
+
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="/assets/eshan.JPG" width="432" height="327" /></p>
+
+![](assets/banner.png)
