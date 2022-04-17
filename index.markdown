@@ -9,16 +9,12 @@ permalink: /
 
 # **Welcome to *eshaniyer.com*!**
 <hr>
-### This is the website of a soon to be *Junior* in high school who loves to code.
-<br>
-### I host various webapps on this website and the code can be found on my <a href="https://www.github.com/Nazchanel" target="_blank">Github profile</a>.
-<br>
-### For professional communication, please connect with me through <a href="https://www.linkedin.com/in/kulfieshan" target="_blank">LinkedIn</a>.
-<hr>
-### Please checkout the other two pages in the tabs or click on one of these links:
+### This is the website of a soon to be *junior* in high school who loves to code. I host various webapps on this website and the code can be found on my <a href="https://www.github.com/Nazchanel" target="_blank"><b><i>Github profile</i></b></a>. For professional communication, please connect with me through <a href="https://www.linkedin.com/in/kulfieshan" target="_blank"><b><i>LinkedIn</i></b></a>.
 
-- ### [Projects](/projects/)
-- ### [Résumé](/resume/)
+### If are a college/employer, please review the [***résumé***](/resume/) page to take a look at my credentials and experiences. 
+
+### To see what I am currently working on, please check out my current/past [***projects***](/projects/).
+
 <hr>
 <br>
 ![](assets/banner.png)

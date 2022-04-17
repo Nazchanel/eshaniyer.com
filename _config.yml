@@ -31,7 +31,6 @@ google_analytics: UA-NNNNNNNN-N
 
 header_pages:
  - index.markdown
- - about.markdown
  - portfolio.markdown
  - resume.markdown
 theme: minima
@@ -39,6 +38,7 @@ minima:
   social_links:
     linkedin: kulfieshan
     github: Nazchanel
+
 
     
 plugins:
