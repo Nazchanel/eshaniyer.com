@@ -7,8 +7,9 @@ p.normal {
 }
 </style>
 
+
 <p class="normal">
-	This is the code for the Jekyll website, [eshaniyer.com](https://www.eshaniyer.com/)
+	This is the code for the Jekyll website, <a href="https://www.eshaniyer.com/" target="_blank"><b>eshaniyer.com</b>
 
 	On my website, you can see a portfolio of all the projects I have done or am working on.
 
