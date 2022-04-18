@@ -12,7 +12,7 @@ p.normal {
   font-family: "Times New Roman", Times, serif;
 }
 </style>
-*Note: This page is currently under construction, so there might be holes or missing details. Until further notice, please do not take this page as whole.* 
+*Note: This page is currently under construction, so there is holes or missing details. Until further notice, please do not take this page as whole.*
 
 ## Projects:
 ### **Collin College Hackathon: October 2021** ***<a href="https://water-wizard.eshaniyer.com/" target="_blank">(Link)</a>***.
