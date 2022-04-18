@@ -1,20 +1,11 @@
 # eshaniyer.com
 
-<style>
-p.normal {
-  line-height: 3.0;
-  font-family: "Times New Roman", Times, serif;
-}
-</style>
+This is the code for the Jekyll website, <a href="https://www.eshaniyer.com/" target="_blank"><b>eshaniyer.com</b>
 
+On my website, you can see a portfolio of all the projects I have done or am working on.
 
-<p class="normal">
-	This is the code for the Jekyll website, <a href="https://www.eshaniyer.com/" target="_blank"><b>eshaniyer.com</b>
+More importantly though, it hosts my electronic résumé or CV. 
 
-	On my website, you can see a portfolio of all the projects I have done or am working on.
+If there are any issues with the loading of the website, please post an issue so I can quickly fix it.
 
-	More importantly though, it hosts my electronic résumé or CV. 
-
-	If there are any issues with the loading of the website, please post an issue so I can quickly fix it.
-</p>
 
