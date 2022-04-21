@@ -68,7 +68,7 @@ permalink: /resume/
 	* Was on the Octathlon competitive team (2021 - 2022)
 * Computer Science Club/Team
 	* Particpated in various coding competitions and Hackathon as part of Frisco High School
-		* Participated in UT Dallas' [Battle of the Brains] (https://dfwcsta.com/Events/utd-battle-of-the-brains-fall-2021) from 2021
+		* Participated in UT Dallas' [Battle of the Brains](https://dfwcsta.com/Events/utd-battle-of-the-brains-fall-2021) from 2021
 		* Collin College Hackathon
 			* Led a team of three people to placing third, by creating a webapp to monitor water consumption  <a href="/assets/bootcamp-feedback.pdf" target="_blank">(*More Details*)</a>
 * Marching Band (9th Grade)
