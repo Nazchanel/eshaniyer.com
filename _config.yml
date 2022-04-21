@@ -33,7 +33,7 @@ header_pages:
  - index.markdown
  - portfolio.markdown
  - resume.markdown
-theme: jekyll-theme-merlot
+theme: minima
 minima:
   social_links:
     linkedin: kulfieshan
