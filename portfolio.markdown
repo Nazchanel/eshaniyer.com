@@ -35,12 +35,18 @@ I am currently creating A program that can detect <b>2 or more</b> different typ
 ---
 
 ### ***Fake News Detection***
-- 
+<p class="normal">
+This project was my final project for the UT Dallas AI Bootcamp. This ></a>Using the various ML packages that I learned, I created a program that uses Natural Language Processing to determine if a text is a true or false statement.
+<br>  
+<b>Fake News Detection Repository:<b> <a href="https://www.github.com/Nazchanel/Fake_News_Detection" target="_blank">Link</a>
+<br>
+<b>Presentation:<b> <a href="https://docs.google.com/presentation/d/1rVVSP1Ch2L15F1XHp9MVh4enWIR-1-yHwjybHSG_ba8/edit?usp=sharing" target="_blank">Link</a>
 
+</p>
 ---
 
 ### ***Web Development Projects***
-- eshaniyer.com (This website of course)
+- eshaniyer.com (This website)
 - Hosting and creating [Flask](https://pythonbasics.org/what-is-flask-python/) webapps with Python
 - [water-wizard.eshaniyer.com](https://water-wizard.eshaniyer.com)
 

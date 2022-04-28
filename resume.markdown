@@ -73,6 +73,8 @@ permalink: /resume/
 			* Led a team of three people to placing third, by creating a webapp to monitor water consumption  <a href="/assets/bootcamp-feedback.pdf" target="_blank">(*More Details*)</a>
 * Marching Band (9th Grade)
 	* Played the Flute and marched at different competitions and football games
+* Part of the National Honors society from 2022
+	* Volunteered and helped for various different causes
 * ***Graduating in May of 2024***
 
 ---
@@ -95,6 +97,7 @@ permalink: /resume/
 	* As my final project, I created a Fake News Detection program that uses the power of Natural Language Processing (NLP) to process an inputted text to detect if it is a true or fake statement
 	* Fake News Detection Repository: <a href="https://www.github.com/Nazchanel/Fake_News_Detection" target="_blank">Link</a>
 	* Presentation: <a href="https://docs.google.com/presentation/d/1rVVSP1Ch2L15F1XHp9MVh4enWIR-1-yHwjybHSG_ba8/edit?usp=sharing" target="_blank">Link</a>
+	* Course Description: <a href="/assets/bootcamp-description.pdf" target="_blank"><i>(Link)</i>
 
 ---
 
@@ -122,10 +125,11 @@ permalink: /resume/
 ---
 
 ### ***Volunteer Experience:***
-* Was in the NJHS program in middle school
+* Was in the National Junior Honors Society (NJHS) program in middle school
 	* (2019) Volunteered at the Allen Elementary Art Night where I helped students in their art projects
 * Help run a Frisco ISD PTA fair, where I managed a bounce house and assisted vendors
 * Went to a March of Dimes event for Halloween and handed out candy and supported kids with special needs. Did this through Academic Decathlon.
+* Part of the National Honors Society (NHS) starting at 10th grade 
 
 
 
