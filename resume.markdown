@@ -21,7 +21,7 @@ permalink: /resume/
 ## Overview:
 * Built a Fake News Detection program using TensorFlow/Keras and Sci-kit Learn libraries during the UT Dallas AI Bootcamp in the Summer of 2021. This project focused on Natural Language Processing (NLP), and analyzing news head lines to return a binary value of the validity of that headline
 <br>
-* Has full knowledge of Python and its libraries, especially those in relation to data science. Also has sufficient knowledge of Java and HTML.
+* Has full knowledge of Python and its libraries, especially those in relation to data science, and sufficient knowledge of Java and HTML.
 <br>
 * Am able to take the role of a leader and use leadership skills to lead a team to victory
 <br>
