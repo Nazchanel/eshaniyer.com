@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
  This is the website that hosts Eshan Iyer's portfolio as well as many web apps/projects that he has created. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.eshaniyer.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
+twitter_username: eshaniyer06
 github_username:  Nazchanel
 linkedin_username: kulfieshan
 google_analytics: UA-NNNNNNNN-N

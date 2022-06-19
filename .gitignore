@@ -3,3 +3,9 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+assets
+_includes
+Gemfile.lock
+Gemfile
+assets
+
