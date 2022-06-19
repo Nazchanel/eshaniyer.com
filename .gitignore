@@ -5,7 +5,7 @@ _site
 vendor
 /assets
 _includes
-Gemfile.lock
-Gemfile
+/Gemfile.lock
+/Gemfile
 
 
