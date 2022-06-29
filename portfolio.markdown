@@ -39,7 +39,14 @@ This project was my final project for the UT Dallas AI Bootcamp. Using the vario
 
 ### ***HAC Notifier***
 
-
+<p class="normal">
+Uses the power of web scraping to take info from the online grade management service, and check on a user-given intreval, if the grades are changed. Will send you a desktop notification when the intreval has come. 
+<br>
+Full breakdown of the logic is available at the given GitHub link below.
+<br>
+<b>GitHub Link:</b> <a href="https://www.github.com/Nazchanel/HAC_Notifier" target="_blank">Link</a>
+<br>
+</p>
 
 
 

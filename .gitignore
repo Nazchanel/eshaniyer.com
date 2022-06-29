@@ -3,9 +3,8 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
-/assets
+assets
 _includes
-/Gemfile.lock
-/Gemfile
-
-
+Gemfile.lock
+Gemfile
+CNAME
