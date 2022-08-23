@@ -15,7 +15,7 @@ p.normal {
 *Note: This page is currently under construction, so there is holes or missing details. Until further notice, please do not take this page as whole.*
 
 ## Projects:
-### **Collin College Hackathon: October 2021** ***<a href="https://water-wizard.eshaniyer.com/" target="_blank">(Link)</a>***.
+### **Collin College Hackathon: October 2021** ***<a href="https://web.archive.org/web/20220718051958/https://water-wizard.eshaniyer.com/" target="_blank">(Link)</a>***.
 --- 
 <p class="normal">
 Me and Abhiram Nandiraju were partners for this Hackathon project. Our goal was to create a website or app to help the ongoing world problem of Climate Change. Using the Flask framework, we created a tracker for water consumption using a basic HTML survey. The inputted data would go to a SQL Lite database which, in theory, be accessed to provide better data for helping the cause of climate change. <b>In the end, we placed third overall in a pool of fifteen contestants.</b><i> The project can be accessed at the URL above, but the SQL database access is broken rendering the project, unfortunately, unusable.</i>

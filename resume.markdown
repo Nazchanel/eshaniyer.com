@@ -115,7 +115,7 @@ permalink: /cv/
 	* Attended a UT Dallas webinar about how to use various different web scraping techniques to harvest data for use in data science
 * **UT Dallas 9 week AI Bootcamp** <a href="/assets/ai-bootcamp.pdf" target="_blank"><i>(Link)</i></a>
 	* Certificate certifying my completion of the UT Dallas *9 Week AI Bootcamp*
-* **Spanish Certificate <a href="/assets/spanish-cert.pdf" target="_blank"><i>(Link)</i></a>
+* **Spanish Certificate** <a href="/assets/spanish-cert.pdf" target="_blank"><i>(Link)</i></a>
 	* Certificate certifying my completion of the UT Dallas *9 Week AI Bootcamp*	
 
 
