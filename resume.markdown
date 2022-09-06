@@ -6,15 +6,13 @@ title: CV
 order: 4
 permalink: /cv/
 ---
-*Note: This page is currently under construction, so there is holes or missing details. Until further notice, please do not take this page as whole.*
-
 ---
 
 ## Basic Info:
 
 | Name        |  City       | Phone        |  Email |
 | :----: | :----: |:----: |  :----: | :----: |
-|**Eshan Iyer**     |**Frisco, TX**|**+1 (972) 439-4254** |**eshan_iyer@eshaniyer.com**|
+|**Eshan Iyer**     |**Frisco, TX**|**+1 (972) 439-4254** |**eshan_iyer@eshaniyer.tech**|
 
 ---
 
@@ -25,7 +23,7 @@ permalink: /cv/
 <br>
 * Am able to take the role of a leader and use leadership skills to lead a team to victory
 <br>
-* Am well experienced in deploying aplications and websites including my own website, <a href="https://www.eshaniyer.com/" target="_blank">eshaniyer.com</a>.
+* Am well experienced in deploying aplications and websites including my own website, <a href="https://www.eshaniyer.tech/" target="_blank">eshaniyer.tech</a>.
 * Strong entrepreneurial skills from my start up, *Kulfi Kream*
 
 ---
@@ -38,6 +36,7 @@ permalink: /cv/
 * Machine Learning
 * Tensorflow/Sci-kit Learn
 * Web Development (HTML/CSS/Flask)
+* Markdown
 * Java
 
 ---
@@ -55,7 +54,7 @@ permalink: /cv/
 - Developed skills, such as team-building and perseverance, to
 - Executed company policies, procedures, and safety standards to ensure the proper cleanliness and safety of the office and equipment
 - Developed the business during the Frisco Library Business Bootcamp and the Young Entreprenuers Academy
-- Company Website: [**Link**](https://www.kulfi-kream.weebly.com/)
+- Company Website: <a href="https://www.kulfi-kream.weebly.com/" target="_blank"><b>Link</b></a>
 
 ---
 
@@ -68,9 +67,9 @@ permalink: /cv/
 	* Was on the Octathlon competitive team (2021 - 2022)
 * Computer Science Club/Team
 	* Particpated in various coding competitions and Hackathon as part of Frisco High School
-		* Participated in UT Dallas' [Battle of the Brains](https://dfwcsta.com/Events/utd-battle-of-the-brains-fall-2021) from 2021
+		* Participated in UT Dallas'  <a href="/assets/battle-of-the-brains-description.pdf" target="_blank">Battle of the Brains</a> from 2021
 		* Collin College Hackathon
-			* Led a team of three people to placing third, by creating a webapp to monitor water consumption  <a href="/assets/bootcamp-feedback.pdf" target="_blank">(*More Details*)</a>
+			* Led a team of three people to placing third, by creating a webapp to monitor water consumption  <a href="/projects/" target="_blank">(*More Details*)</a>
 * Marching Band (9th Grade)
 	* Played the Flute and marched at different competitions and football games
 * Part of the National Honors society from 2022
@@ -113,7 +112,7 @@ permalink: /cv/
 	* Participated with a team in the Collin College Hackathon, sponsored by Netscout, and earned 3rd place overall  
 * **Text Mining Course** <a href="/assets/text-mining.pdf" target="_blank"><i>(Link)</i></a>
 	* Attended a UT Dallas webinar about how to use various different web scraping techniques to harvest data for use in data science
-* **UT Dallas 9 week AI Bootcamp** <a href="/assets/ai-bootcamp.pdf" target="_blank"><i>(Link)</i></a>
+* **UT Dallas 9 Week AI Bootcamp** <a href="/assets/ai-bootcamp.pdf" target="_blank"><i>(Link)</i></a>
 	* Certificate certifying my completion of the UT Dallas *9 Week AI Bootcamp*
 * **Spanish Certificate** <a href="/assets/spanish-cert.pdf" target="_blank"><i>(Link)</i></a>
 	* Certificate certifying my completion of the UT Dallas *9 Week AI Bootcamp*	
@@ -126,23 +125,10 @@ permalink: /cv/
 
 ---
 
-### ***Volunteer Experience:***
+## Volunteer Experience:
 * Was in the National Junior Honors Society (NJHS) program in middle school
 	* (2019) Volunteered at the Allen Elementary Art Night where I helped students in their art projects
 * Help run a Frisco ISD PTA fair, where I managed a bounce house and assisted vendors
 * Went to a March of Dimes event for Halloween and handed out candy and supported kids with special needs. Did this through Academic Decathlon.
-* Part of the National Honors Society (NHS) starting at 10th grade 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* Part of the National Honors Society (NHS) starting at 10th grade
+* Volunteered at the <a href="https://mindstretchingfun.org/" target="_blank"><i>Sci-Tech Discovery Center</i></a> in Frisco, TX
