@@ -109,13 +109,11 @@ permalink: /cv/
 * **Coding Competition #1** <a href="/assets/class-certificate.pdf" target="_blank"><i>(Link)</i></a>
 	* Was awarded this certificate on November 5, 2021 for winning a Java coding challenge competition.
 * **Coding Competition #2** <a href="/assets/collin-college.pdf" target="_blank"><i>(Link)</i></a>
-	* Participated with a team in the Collin College Hackathon, sponsored by Netscout, and earned 3rd place overall  
-* **Text Mining Course** <a href="/assets/text-mining.pdf" target="_blank"><i>(Link)</i></a>
-	* Attended a UT Dallas webinar about how to use various different web scraping techniques to harvest data for use in data science
+	* Participated with a team in the Collin College Hackathon, sponsored by Netscout, and earned 3rd place overall 
 * **UT Dallas 9 Week AI Bootcamp** <a href="/assets/ai-bootcamp.pdf" target="_blank"><i>(Link)</i></a>
 	* Certificate certifying my completion of the UT Dallas *9 Week AI Bootcamp*
 * **Spanish Certificate** <a href="/assets/spanish-cert.pdf" target="_blank"><i>(Link)</i></a>
-	* Certificate certifying my completion of the UT Dallas *9 Week AI Bootcamp*	
+	* Awarded to me for being an exemplary student in the Spanish II course	
 
 
 ### ***Other:***
