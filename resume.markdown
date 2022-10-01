@@ -6,7 +6,6 @@ title: CV
 order: 4
 permalink: /cv/
 ---
----
 
 ## Basic Info:
 

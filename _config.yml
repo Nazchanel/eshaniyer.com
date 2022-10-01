@@ -32,6 +32,7 @@ header_pages:
  - index.markdown
  - portfolio.markdown
  - resume.markdown
+ - contact.markdown
 theme: minima
 minima:
   social_links:
