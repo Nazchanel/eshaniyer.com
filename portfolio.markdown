@@ -1,4 +1,5 @@
 ---
+---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
@@ -44,10 +45,10 @@ Uses the power of web scraping to take info from the online grade management ser
 <br>
 Full breakdown of the logic is available at the given GitHub link below.
 <br>
-<b>GitHub Link:</b> <a href="https://www.github.com/Nazchanel/HAC_Notifier" target="_blank">Link</a>
+<b>GitHub Link:</b> <a href="https://github.com/Nazchanel/hac-notifier" target="_blank">Link</a>
 <br>
 </p>
-
+g
 
 
 ---
