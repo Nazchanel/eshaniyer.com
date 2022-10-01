@@ -4,5 +4,5 @@ _site/
 .jekyll-metadata
 vendor
 _includes
-Gemfile.lock
-Gemfile
+# Gemfile.lock
+# Gemfile
