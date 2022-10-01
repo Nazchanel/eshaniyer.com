@@ -1,5 +1,4 @@
 ---
----
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
@@ -48,7 +47,7 @@ Full breakdown of the logic is available at the given GitHub link below.
 <b>GitHub Link:</b> <a href="https://github.com/Nazchanel/hac-notifier" target="_blank">Link</a>
 <br>
 </p>
-g
+
 
 
 ---
