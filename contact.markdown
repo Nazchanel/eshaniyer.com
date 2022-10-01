@@ -23,13 +23,15 @@ permalink: /contact/
 
 </style>
 
+# Contact Form:
+
 <hr>
 
 <form action="https://submit-form.com/AL5ugzPQ">
   <label for="name">Name:</label>
   <br>
   <br>
-  <input type="text" id="name" name="name" placeholder="" required="" />
+  <input type="text" id="name" name="name" placeholder="John Doe" required="" />
   
   <br>
   <br>
@@ -40,12 +42,23 @@ permalink: /contact/
   <br>
   <br>
   
-  <input type="email" id="email" name="email" placeholder="" required="" />
+  <input type="email" id="email" name="email" placeholder="example@example.com" required="" />
   
   <br>
   <br>
   <hr>
+
+  <label for="phone">Phone Number:</label>
+
+  <br>
+  <br>
+
+  <input type="tel" name="phone" maxlength="14" minlength="7" placeholder="(123) 456-7890">
   
+  <br>
+  <br>
+  <hr>
+
   <label for="message">Message:</label>
   
   <br>
@@ -54,8 +67,8 @@ permalink: /contact/
   <textarea
   id="message"
   name="message"
-  placeholder=""
-  required=""
+  placeholder="Message"
+  required
   class = comment
   ></textarea>
   
@@ -64,5 +77,6 @@ permalink: /contact/
   <hr>
   <br>
   <button class= test type="submit">Send</button>
+  <input type="reset" value="Reset form" class=test>
 </form>
 
