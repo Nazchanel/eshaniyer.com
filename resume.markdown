@@ -9,9 +9,9 @@ permalink: /cv/
 
 ## Basic Info:
 
-| Name        |  City       | Phone        |  Email |
-| :----: | :----: |:----: |  :----: | :----: |
-|**Eshan Iyer**     |**Frisco, TX**|**+1 (972) 439-4254** |**eshan_iyer@eshaniyer.tech**|
+| Name        |  City       |  Email |
+| :----: | :----: |:----: |  :----: |
+|**Eshan Iyer**     |**Frisco, TX**|**eshan_iyer@eshaniyer.tech**|
 
 ---
 
