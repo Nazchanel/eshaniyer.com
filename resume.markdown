@@ -42,13 +42,21 @@ permalink: /cv/
 
 ## Experience:
 
-### ***Kumon Math and Reading Center | Teaching Assistant*** *(Aug 2021 - Present)*
-<table style="border-collapse:collapse;border-color:#ccc;border-spacing:0;table-layout: fixed; width: 700px" class="tg"><colgroup><col style="width: 78px"><col style="width: 78px"><col style="width: 161px"></colgroup><thead><tr><td style="background-color:#fff;border-color:inherit;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Frisco, TX</span></td><td style="background-color:#fff;border-color:inherit;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Teacher Assistant</span></td><td style="background-color:#fff;border-color:inherit;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">August 2021 - Present</span></td></tr></thead></table>
+### ***Kumon Math and Reading Center***
+
+|    City    |Postion         |  Date |
+| :----: | :----: |:----: |  :----: |
+|**Frisco, TX**     |**Teacher Assistant**|**August 2021 - Present**|
+
 - Patiently worked with students and assisted in their learning journey
 - Developed relationships with many staff members, and assisted them with existing staff members in their career development
 
-### ***Kulfi Kream | Chief Executive Officer*** *(Aug 2019 - Dec 2020)*
-<table style="border-collapse:collapse;border-color:#ccc;border-spacing:0;table-layout: fixed; width: 700px" class="tg"><colgroup><col style="width: 78px"><col style="width: 78px"><col style="width: 161px"></colgroup><thead><tr><td style="background-color:#fff;border-color:inherit;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Frisco, TX</span></td><td style="background-color:#fff;border-color:inherit;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Chief Executive Officer</span></td><td style="background-color:#fff;border-color:inherit;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">August 2019- December 2020</span></td></tr></thead></table>
+### ***Kulfi Kream***
+
+|    City    |Postion         |  Date |
+| :----: | :----: |:----: |  :----: |
+|**Frisco, TX**     |**Chief Executive Officer**|**August 2019- December 2020**|
+
 - Managed a business that sold sustainable, and delicious sweets to the Frisco community
 - Developed skills, such as team building and perseverance, to
 - Executed company policies, procedures, and safety standards to ensure the proper cleanliness and safety of the office and equipment
