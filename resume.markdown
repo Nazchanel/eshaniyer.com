@@ -44,7 +44,7 @@ permalink: /cv/
 
 ### ***Kumon Math and Reading Center***
 
-|    City    |Postion         |  Date |
+|    City    |Position         |  Date |
 | :----: | :----: |:----: |  :----: |
 |**Frisco, TX**     |**Teacher Assistant**|**August 2021 - Present**|
 
@@ -53,7 +53,7 @@ permalink: /cv/
 
 ### ***Kulfi Kream***
 
-|    City    |Postion         |  Date |
+|    City    |Position         |  Date |
 | :----: | :----: |:----: |  :----: |
 |**Frisco, TX**     |**Chief Executive Officer**|**August 2019- December 2020**|
 
