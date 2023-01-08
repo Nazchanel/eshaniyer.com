@@ -6,6 +6,7 @@ title: Contact
 order: 5
 permalink: /contact/
 ---
+<script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
 
 <style>
 	.comment {
@@ -28,6 +29,7 @@ permalink: /contact/
 <hr>
 
 <form action="https://submit-form.com/AL5ugzPQ">
+  <div class="cf-turnstile" data-sitekey="yourSiteKey"></div>
   <label for="name">Name:</label>
   <br>
   <br>

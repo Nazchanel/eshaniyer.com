@@ -6,6 +6,8 @@ title: Home
 order: 1
 permalink: /
 ---            
+<script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
+
 # **Welcome to *eshaniyer.tech*!**
 
 <hr>
