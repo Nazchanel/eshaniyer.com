@@ -5,10 +5,9 @@ layout: default
 title: CV
 order: 4
 permalink: /cv/
----
-
+---	
 ## Basic Info:
-
+ 
 | Name        |  City       |  Email |
 | :----: | :----: |:----: |  :----: |
 |**Eshan Iyer**     |**Frisco, TX**|**eshan_iyer@eshaniyer.tech**|

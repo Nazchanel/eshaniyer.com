@@ -6,8 +6,6 @@ title: Home
 order: 1
 permalink: /
 ---            
-<script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
-
 # **Welcome to *eshaniyer.tech*!**
 
 <hr>
@@ -18,6 +16,8 @@ permalink: /
 ### If you are from a college or an employer, please review the [***CV***](/cv/) page to take a look at my credentials and experiences. 
 
 ### To see what I am currently working on, please check out my current and past [***projects***](/projects/).
+
+### Use the [***contact form***](/contact/) to directly contact me.
 
 <hr>
 <br>

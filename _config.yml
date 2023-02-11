@@ -7,13 +7,13 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 baseurl: "" # the subpath of your site, e.g. /blog
 
-url: "https://www.eshaniyer.tech/" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://www.eshaniyer.tech/ # the base hostname & protocol for your site, e.g. http://example.com
 
 twitter_username: eshaniyer06
 
 github_username:  Nazchanel
 
-linkedin_username: kulfieshan
+linkedin_username: eshaniyer
 
 header_pages:
  - index.markdown
@@ -24,7 +24,7 @@ theme: minima
 
 minima:
   social_links:
-    linkedin: kulfieshan
+    linkedin: eshaniyer
     github: Nazchanel
 
 minima:
