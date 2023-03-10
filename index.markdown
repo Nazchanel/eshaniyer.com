@@ -17,8 +17,6 @@ permalink: /
 
 ### To see what I am currently working on, please check out my current and past [***projects***](/projects/).
 
-### Use the [***contact form***](/contact/) to directly contact me.
-
 <hr>
 <br>
 
