@@ -6,11 +6,11 @@ title: Home
 order: 1
 permalink: /
 ---            
-# **Welcome to *eshaniyer.tech*!**
+# **Welcome to *eshaniyer.com*!**
 
 **DISCLAIMER: This website remains out of date please check my up to date resume** [**here**](/assets/resume-full.pdf) **while I get to updating this website**
 
-### See my latest research papers [here](https://scholar.eshaniyer.tech/)
+### See my latest research papers [here](https://scholar.eshaniyer.com/)
 ---
 
 <hr>

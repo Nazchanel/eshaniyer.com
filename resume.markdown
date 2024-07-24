@@ -10,7 +10,7 @@ permalink: /cv/
  
 | Name        |  City       |  Email |
 | :----: | :----: |:----: |  :----: |
-|**Eshan Iyer**     |**Frisco, TX**|**eshan_iyer@eshaniyer.tech**|
+|**Eshan Iyer**     |**Frisco, TX**|**eshaniyer@gmail.com**|
 
 ---
 
@@ -21,7 +21,7 @@ permalink: /cv/
 <br>
 * Can take the role of a leader and use leadership skills to lead a team to victory
 <br>
-* Am well experienced in deploying applications and websites including my own website, <a href="https://www.eshaniyer.tech/" target="_blank">eshaniyer.tech</a>.
+* Am well experienced in deploying applications and websites including my own website, <a href="https://www.eshaniyer.com/" target="_blank">eshaniyer.com</a>.
 * Strong entrepreneurial skills from my start up, *Kulfi Kream*
 
 ---

@@ -63,9 +63,9 @@ I am in the process of creating a program that can detect <b>2 or more</b> diffe
 ---
 ### ***Web Development Projects***
 * <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> websites
-  * <a href="https://eshaniyer.tech/" target="_blank">eshaniyer.tech</a>
+  * <a href="https://eshaniyer.com/" target="_blank">eshaniyer.com</a>
 * Hosting and creating <a href="https://pythonbasics.org/what-is-flask-python/" target="_blank">Flask</a> webapps with Python
-  * <a href="https://web.archive.org/web/20220718051958/https://water-wizard.eshaniyer.com/" target="_blank">water-wizard.eshaniyer.tech</a> (archive)
+  * <a href="https://web.archive.org/web/20220718051958/https://water-wizard.eshaniyer.com/" target="_blank">water-wizard.eshaniyer.com</a> (archive)
 
 ---
 
