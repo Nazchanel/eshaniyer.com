@@ -10,7 +10,7 @@ permalink: /cv/
  
 | Name        |  City       |  Email |
 | :----: | :----: |:----: |  :----: |
-|**Eshan Iyer**     |**Frisco, TX**|**eshaniyer@gmail.com**|
+|**Eshan Iyer**     |**College Park, MD**|**eshaniyer@gmail.com**|
 
 ---
 
