@@ -15,7 +15,7 @@ permalink: /
 
 <hr>
 
-### This is the website of a ***senior*** in high school who loves to code. I host various web apps on this website and the code can be found on my <a href="https://www.github.com/Nazchanel" target="_blank"><b><i>GitHub profile</i></b></a>. For professional communication, please connect with me through <a href="https://www.linkedin.com/in/kulfieshan" target="_blank"><b><i>LinkedIn</i></b></a>.
+### This is the website of a ***freshman*** in college who loves to code. I host various web apps on this website and the code can be found on my <a href="https://www.github.com/Nazchanel" target="_blank"><b><i>GitHub profile</i></b></a>. For professional communication, please connect with me through <a href="https://www.linkedin.com/in/kulfieshan" target="_blank"><b><i>LinkedIn</i></b></a>.
 
 
 
