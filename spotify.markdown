@@ -1,26 +1,24 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: default
-title: Spotify
-order: 4
-permalink: /spotify
----            
+# <div style="text-align: center;">Currently Playing (Live)</div>
 
-# Currently Playing (Live)
-
-<iframe src="https://spotify-current-track-widget.onrender.com/pretty" 
-    width="500" 
-    height="695" 
-    style="border:none; overflow:hidden;" 
-    scrolling="no">
-</iframe>
+<div style="text-align: center;">
+    <iframe src="https://spotify-current-track-widget.onrender.com/pretty" 
+        width="500" 
+        height="695" 
+        style="border:none; overflow:hidden;" 
+        scrolling="no">
+    </iframe>
+</div>
 
 <br>
 
-### [**Spotify Website**](https://spotify-current-track-widget.onrender.com/pretty)
+<div style="text-align: center;">
+    ### [**Spotify Website**](https://spotify-current-track-widget.onrender.com/pretty)
+</div>
 
-### [**GitHub Repo**](https://github.com/Nazchanel/spotify-current-track-widget)
+<div style="text-align: center;">
+    ### [**GitHub Repo**](https://github.com/Nazchanel/spotify-current-track-widget)
+</div>
 
-No refresh is needed for it to updated.
-
+<div style="text-align: center;">
+    No refresh is needed for it to update.
+</div>
