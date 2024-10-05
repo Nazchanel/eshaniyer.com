@@ -15,11 +15,7 @@ permalink: /spotify
         scrolling="no">
     </iframe>
 </div>
-
-
 <p><a href="https://spotify-current-track-widget.onrender.com/pretty" target="_blank">Spotify Website</a></p>
-
 <p><a href="https://github.com/Nazchanel/spotify-current-track-widget" target="_blank">GitHub Repo</a></p>
-
 <p>No refresh is needed for it to update.</p>
 
