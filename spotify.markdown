@@ -11,10 +11,12 @@ permalink: /spotify
 
 <iframe src="https://spotify-current-track-widget.onrender.com/pretty" 
     width="500" 
-    height="680" 
+    height="695" 
     style="border:none; overflow:hidden;" 
     scrolling="no">
 </iframe>
+
+<br>
 
 ### [**Spotify Website**](https://spotify-current-track-widget.onrender.com/pretty)
 
