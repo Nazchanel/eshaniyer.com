@@ -45,7 +45,7 @@ permalink: /cv/
 
 |    City    |Position         |  Date |
 | :----: | :----: |:----: |  :----: |
-|**Frisco, TX**     |**Teacher Assistant**|**August 2021 - Present**|
+|**Frisco, TX**     |**Teacher Assistant**|**August 2021 - December 2023**|
 
 - Patiently worked with students and assisted in their learning journey
 - Developed relationships with many staff members, and assisted them with existing staff members in their career development
@@ -66,7 +66,7 @@ permalink: /cv/
 
 ## Education:
 
-### ***Frisco High School*** *(Aug 2020 - Present)* 
+### ***Frisco High School*** *(Aug 2020 - May 2024)* 
 
 * Academic Decathlon/Octathlon
 	* Participated in Academic Decathlon competitions
@@ -80,8 +80,7 @@ permalink: /cv/
 	* Played the Flute and marched at different competitions and football games
 * Part of the National Honors society from 2022
 	* Volunteered and helped for various causes
-* ***Graduating in May of 2024***
-
+	
 ---
 
 ## Courses/Classes:
