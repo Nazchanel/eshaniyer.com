@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 title: CV
-order: 4
+order: 2
 permalink: /cv/
 ---	
 ## Basic Info:

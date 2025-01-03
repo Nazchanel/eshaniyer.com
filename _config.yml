@@ -1,13 +1,13 @@
 title: Eshan Iyer
 
-email: eshan@eshaniyer.tech
+email: eshaniyer@gmail.com
 
 description: >- # this means to ignore newlines until "baseurl:"
  This is the website that hosts Eshan Iyer's portfolio and resume. 
 
 baseurl: "" # the subpath of your site, e.g. /blog
 
-url: https://www.eshaniyer.tech/ # the base hostname & protocol for your site, e.g. http://example.com
+url: https://www.eshaniyer.com/ # the base hostname & protocol for your site, e.g. http://example.com
 
 twitter_username: eshaniyer06
 
@@ -37,6 +37,4 @@ plugins:
  - jekyll-feed
  - jekyll-seo-tag
  
-
-
 

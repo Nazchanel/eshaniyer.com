@@ -10,18 +10,15 @@ permalink: /
 
 **DISCLAIMER: This website remains out of date please check my up to date resume** [**here**](/assets/resume-full.pdf) **while I get to updating this website**
 
-### See my latest research papers [here](https://scholar.eshaniyer.com/)
 ---
 
 <hr>
 
-### This is the website of a ***freshman*** in college who loves to code. I host various web apps on this website and the code can be found on my <a href="https://www.github.com/Nazchanel" target="_blank"><b><i>GitHub profile</i></b></a>. For professional communication, please connect with me through <a href="https://www.linkedin.com/in/kulfieshan" target="_blank"><b><i>LinkedIn</i></b></a>.
+### This is the website of a ***freshman*** in college who loves to program. I host various web apps on this website and the code can be found on my <a href="https://www.github.com/Nazchanel" target="_blank"><b><i>GitHub profile</i></b></a>. For professional communication, please connect with me through <a href="https://www.linkedin.com/in/kulfieshan" target="_blank"><b><i>LinkedIn</i></b></a>.
 
+### For a more up to date view of my experience look at my [LinkedIn](https://linkedin.com/in/eshaniyer). You can still review the [***CV***](/cv/) page to take a look at some of my credentials and experiences from the past.
 
-
-### If you are from a college or an employer, please review the [***CV***](/cv/) page to take a look at my credentials and experiences. 
-
-### To see what I am currently working on, please check out my current and past [***projects***](/projects/).
+### My portfolio can be found on my [Github](https://github.com/Nazchanel).
 
 <hr>
 <br>
