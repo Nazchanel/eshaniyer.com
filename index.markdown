@@ -21,6 +21,5 @@ permalink: /
 
 <h3>I can be contacted at <a href="mailto:eshaniyer&#64;gmail.com">eshaniyer&#64;gmail.com</a><h3>
 <hr>
-<br>
 
 ![](assets/banner.png)
