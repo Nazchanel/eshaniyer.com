@@ -135,14 +135,3 @@ permalink: /cv/
 * Went to a March of Dimes event for Halloween and handed out candy and supported kids with special needs. Did this through Academic Decathlon.
 * Part of the National Honors Society (NHS) starting at 10th grade
 * Volunteered at the <a href="https://mindstretchingfun.org/" target="_blank"><i>Sci-Tech Discovery Center</i></a> in Frisco, TX
-
-
-# *Currently Playing Song*
-<p align="center">
-  <a href="https://nazchanel.pythonanywhere.com/?spin=true&eq_color=rainbow&theme=dark">
-    <img
-      src="https://nazchanel.pythonanywhere.com/?eq_color=rainbow&theme=dark"
-      alt="Current Spotify Song"
-    />
-  </a>
-</p>
