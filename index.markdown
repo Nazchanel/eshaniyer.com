@@ -14,12 +14,12 @@ permalink: /
 
 <hr>
 
-### This is the website of a ***freshman*** in college who loves to program. I host various web apps on this website and the code can be found on my <a href="https://www.github.com/Nazchanel" target="_blank"><b><i>GitHub profile</i></b></a>. For professional communication, please connect with me through <a href="https://www.linkedin.com/in/kulfieshan" target="_blank"><b><i>LinkedIn</i></b></a>.
+### This is the website of a ***freshman*** in college who loves to program. My portfolio on my <a href="https://www.github.com/Nazchanel" target="_blank"><b><i>GitHub</i></b></a>.
 
 ### For a more up to date view of my experience look at my [***LinkedIn***](https://linkedin.com/in/eshaniyer). You can still review the [***CV***](/cv/) page to take a look at some of my credentials and experiences from the past.
 
-### My portfolio is no longer on this site can be found on my aformentioned [***Github***](https://github.com/Nazchanel).
 
+<h3>I can be contacted at <a href="mailto:eshaniyer&#64;gmail.com">eshaniyer&#64;gmail.com</a><h3>
 <hr>
 <br>
 
