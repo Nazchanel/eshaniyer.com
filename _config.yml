@@ -3,7 +3,7 @@ title: Eshan Iyer
 email: eshaniyer@gmail.com
 
 description: >- # this means to ignore newlines until "baseurl:"
- This is the website that hosts Eshan Iyer's portfolio and resume. 
+ This is the website that hosts Eshan Iyer's resume and various files. 
 
 baseurl: "" # the subpath of your site, e.g. /blog
 
